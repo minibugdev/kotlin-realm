@@ -11,6 +11,9 @@
         }
     }
 ```
+
+![Alt text](https://raw.githubusercontent.com/minibugdev/kotlin-relam/master/ss/error.png "Error")
+
 #### Dependencies
 - [Kotlin v1.0.4](https://kotlinlang.org/docs/reference/using-gradle.html)
 - [Relam v1.2.0](https://realm.io/docs/java/1.2.0/) (Also error on Realm v1.1.1)
